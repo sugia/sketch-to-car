@@ -1,5 +1,7 @@
 # Sketch to Car
 
+Youtube: https://www.youtube.com/watch?v=9QZW6uoN-9I
+
 This is a cs231n project. I contains code blocks of training conditional GAN. We have several models for comparison.
 
 The car_edge_baseline.ipynb is a jupyter notebook to train a baseline model. It's built based on the pix2pix model.
